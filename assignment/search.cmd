@@ -1,0 +1,1 @@
+call java -cp target\assignment.jar com.williamhill.App %1 %2 %3
